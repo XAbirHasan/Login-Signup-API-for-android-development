@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=XAbirHasan&color=brightgreen)
-
 All credit goes to [@VishnuSivadasVS](https://github.com/VishnuSivadasVS)  check out his work.
 
 # LogIn and SignUp API using php with encryption.
